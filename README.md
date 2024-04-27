@@ -6,4 +6,12 @@
 下記のURLからgit bashをインストールしてください。
 
 https://git-scm.com/
+### Gitの初期設定
+ここでは、ごく最低限の設定だけを行います。
 
+// ユーザー名を設定する
+$ git config --global user.name "you-name"
+// メールアドレスを設定する
+$ git config --global user.email "you-email@example.com"
+
+※GitHubで登録されたユーザー名とメールアドレスを入力してください。
