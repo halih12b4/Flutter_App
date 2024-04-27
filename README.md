@@ -19,6 +19,5 @@ $ git config --global user.email "you-email@example.com"
 ```
 ※GitHubで登録されたユーザー名とメールアドレスを入力してください。
 ##リポジトリをcloneする
-
-'C:\IH41jp-ac-hal'上でpowershellを立ち上げ、リモートリポジトリをcloneしてください。
+`C:\IH41jp-ac-hal`上でpowershellを立ち上げ、リモートリポジトリをcloneしてください。
 
