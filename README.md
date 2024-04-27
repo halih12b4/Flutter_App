@@ -18,6 +18,9 @@ $ git config --global user.name "you-name"
 $ git config --global user.email "you-email@example.com"
 ```
 ※GitHubで登録されたユーザー名とメールアドレスを入力してください。
-##リポジトリをcloneする
+## リポジトリをcloneする
 `C:\IH41jp-ac-hal`上でpowershellを立ち上げ、リモートリポジトリをcloneしてください。
+```
+git clone "https://github.com/IH41jp-ac-hal/Flutter_App.git"
+```
 
